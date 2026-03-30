@@ -22,8 +22,8 @@ $$
 $$
 
 where:
-- \( u(x,t) \) is the velocity field
-- \( \nu \) is the kinematic viscosity
+- $u(x,t)$ is the velocity field
+- $\nu$ is the kinematic viscosity
 
 This equation serves as a simplified model for studying nonlinear convection and diffusion phenomena in fluid dynamics.
 
