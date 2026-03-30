@@ -20,7 +20,6 @@
 ! and numerical methods.
 !==============================================================
 
-
 subroutine explicita(ni, nx, nt, dt, dx)
     implicit none
     integer, parameter :: dp = selected_real_kind(15, 307)
