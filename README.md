@@ -27,6 +27,9 @@ where:
 
 This equation serves as a simplified model for studying nonlinear convection and diffusion phenomena in fluid dynamics.
 
+
+![explN64](https://github.com/user-attachments/assets/c02da03c-a9c1-4a19-8c95-cf88ab15744a)
+
 ---
 
 ## How to run
