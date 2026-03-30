@@ -8,6 +8,23 @@ The project includes:
 - A main driver code integrating the approaches
 
 The focus is on understanding the behavior of fluid systems and validating numerical strategies for simplified flow models.
+---
+
+## 1D Burgers Equation: Advection–Diffusion Problem
+
+The numerical solution of the one-dimensional Burgers' equation, is a nonlinear partial differential equation that combines advection and diffusion effects.
+
+The equation is given by:
+
+$$
+\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
+$$
+
+where:
+- \( u(x,t) \) is the velocity field
+- \( \nu \) is the kinematic viscosity
+
+This equation serves as a simplified model for studying nonlinear convection and diffusion phenomena in fluid dynamics.
 
 ---
 
