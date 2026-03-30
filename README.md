@@ -8,6 +8,7 @@ The project includes:
 - A main driver code integrating the approaches
 
 The focus is on understanding the behavior of fluid systems and validating numerical strategies for simplified flow models.
+
 ---
 
 ## 1D Burgers Equation: Advection–Diffusion Problem
