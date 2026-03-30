@@ -1,3 +1,26 @@
+!==============================================================
+! File: main.f95
+! Author: Mylena Carvalho Silva
+! Date: 2023
+!
+! Problem:
+! 1D Burgers' equation (nonlinear advection-diffusion):
+!     du/dt + u du/dx = nu d²u/dx²
+!
+! Methods:
+! - Analytical solution (validation)
+! - Explicit finite difference scheme
+!
+! Dependencies:
+! - analitica.f95
+! - explicita.f95
+!
+! Notes:
+! Developed for academic and research purposes in fluid mechanics
+! and numerical methods.
+!==============================================================
+
+
 subroutine analitica(c, ni, n, t, pi, dx, q)
     implicit none
 
