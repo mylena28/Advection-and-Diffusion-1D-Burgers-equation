@@ -1,3 +1,5 @@
+# Numerical Solution of Burgers' Equation
+
 This repository contains Fortran implementations of numerical methods applied to fluid flow problems. 
 
 The project includes:
