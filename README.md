@@ -15,6 +15,9 @@ Compile using a Fortran compiler (e.g., ifort, ifx, gfortran):
 
 ```bash
 gfortran main.f95 analitica.f95 explicita.f95 -o Burgers
+```
+
+```bash
 ./Burgers
 ```
 
