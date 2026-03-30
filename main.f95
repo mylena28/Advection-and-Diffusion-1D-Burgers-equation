@@ -3,6 +3,27 @@
 ! Descrição: Coaparação entre solução analítica e numérica com Euler Explícito, Runge-Kutta
 ! Autor: Mylena Carvalho Silva
 
+!==============================================================
+! Author: Mylena Carvalho Silva
+! Date: 2023
+!
+! Problem:
+! 1D Burgers' equation (nonlinear advection-diffusion):
+!     du/dt + u du/dx = nu d²u/dx²
+!
+! Methods:
+! - Analytical solution (validation)
+! - Explicit finite difference scheme
+!
+! Dependencies:
+! - analitica.f95
+! - explicita.f95
+! - main.f95
+!
+! Notes:
+! Developed for academic and research purposes in fluid mechanics
+! and numerical methods.
+
 program burgers
 
     !Verificar variaveis
