@@ -1,5 +1,4 @@
 !==============================================================
-! File: main.f95
 ! Author: Mylena Carvalho Silva
 ! Date: 2023
 !
@@ -14,11 +13,11 @@
 ! Dependencies:
 ! - analitica.f95
 ! - explicita.f95
+! - main.f95
 !
 ! Notes:
 ! Developed for academic and research purposes in fluid mechanics
 ! and numerical methods.
-!==============================================================
 
 
 subroutine analitica(c, ni, n, t, pi, dx, q)
